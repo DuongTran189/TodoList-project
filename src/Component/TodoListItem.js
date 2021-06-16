@@ -1,7 +1,5 @@
 
 
-
-
 function TodoListItem(props) {
  
   let onClickClose= () =>{
