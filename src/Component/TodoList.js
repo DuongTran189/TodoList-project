@@ -1,7 +1,6 @@
 
 
 import TodoListItem from './TodoListItem';
-import React, { useState } from 'react';
 
 function TodoList(props) {
 
